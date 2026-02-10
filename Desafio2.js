@@ -48,7 +48,9 @@ let notaBaixa = "5";
 let notaMedia = "7";
 let notaAlta = "10";
 console.log(notaBaixa,notaMedia,notaBaixa);
+
 //Desafio 10
  let produto = "batom";
 let preço = "R$ 15,00";
  console.log(produto,preço);
+
