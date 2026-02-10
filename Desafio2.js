@@ -1,6 +1,6 @@
 //Desafio 01
 let meuNome = "Carina";
-var idade = 16;
+let idade = 16;
 console.log(meuNome,idade);
 
 //Desafio 02
@@ -14,9 +14,9 @@ console.log(comidaFavorita);
 
 //Desafio 03
 let nome = "Carlos";
-var idade = "16";
-var cidade ="São Paulo";
-console.log(nome,idade,cidade);
+let idadeHumano = "16";
+let cidade ="São Paulo";
+console.log(nome,idadeHumano,cidade);
 
 //Desafio 04
 let curso = "moda";
@@ -36,19 +36,19 @@ console.log(nomePessoa,sobrenome);
 //Desafio 07
 let usuario = "Maki";
 let email = "makimakizenin@gmail.com";
-var idadePessoa ="São Paulo";
+let idadePessoa ="São Paulo";
 console.log(usuario,email,idadePessoa);
 
 //Desafio 08
-var numeroDaSorte = "22";
-var numeroDoAzar = "13";
+let numeroDaSorte = "22";
+let numeroDoAzar = "13";
 console.log(numeroDaSorte,numeroDoAzar);
 //Desafio 09
-var notaBaixa = "5";
-var notaMedia = "7";
-var notaAlta = "10";
+let notaBaixa = "5";
+let notaMedia = "7";
+let notaAlta = "10";
 console.log(notaBaixa,notaMedia,notaBaixa);
 //Desafio 10
  let produto = "batom";
- var preço = "R$ 15,00";
+let preço = "R$ 15,00";
  console.log(produto,preço);
